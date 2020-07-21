@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-In this analysis, I was interested in understanding why developers changed jobs and what they look for in deciding on a new job. I used the 2020 Stack Overflow Developer Survey to answer the following questions:
+In this analysis, I was interested in understanding why developers changed jobs and what they look for in deciding on a new job. The results can be used by companies to learn what they can do to attract and keep a diverse talent of developers. I used the 2020 Stack Overflow Developer Survey to answer the following questions:
 
 1. What drives developers to look for a new job?
 2. Which factors are most important to developers when choosing a new job?
