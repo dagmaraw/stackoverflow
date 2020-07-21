@@ -22,7 +22,7 @@ In this analysis, I was interested in understanding why developers changed jobs 
 
 There is one notebook in the repository that goes through analysis related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions.  Markdown cells were used to assist in walking through the thought process for individual steps.
 
-The whole dataset used for the analysis is found in a .csv, which is publicly available [here](https://insights.stackoverflow.com/survey).
+The whole dataset used for the analysis is found in survey_results_public.csv, which is publicly available [here](https://insights.stackoverflow.com/survey). The associated files are survey_results_schema, which gives the questions associated with each data column name, and so_survey_2020.pdf, which is a copy of the survey given.
 
 ## Results<a name="results"></a>
 
