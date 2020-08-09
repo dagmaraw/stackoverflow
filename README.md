@@ -26,7 +26,7 @@ The whole dataset used for the analysis is found in survey_results_public.csv, w
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available on Medium.
+The main findings of the code can be found at the post available on Medium [here] (https://medium.com/@dagmara.wehr/hiring-developers-heres-how-to-attract-and-retain-diverse-talent-ee0101c26e9b?sk=ec967a229aa9d529b15d8c7f9afffa56).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
